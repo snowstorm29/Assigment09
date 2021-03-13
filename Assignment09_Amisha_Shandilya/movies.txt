@@ -1,0 +1,8 @@
+1,Barfi,Comedy Romance Drama,Hindi,23/4/12,Ranbeer Kapoor-Priyanka Chopra,8.1,118.36
+2,Avengers,Action Adventure,English,4/5/12,Robert Downey-Jr-Chris Evans-Scarlett Johansson,8,8273
+3,Three Idiots,Comedy Drama,Hindi,6/4/12,Aamir Khan-Kareena Kapoor-Boman Irani-R. Madhavan-Sharman Joshi-Omi Vaidya,8.4,459.96
+4,Student of the year,Comedy Romance Drama,Hindi,3/10/12,Varun Dhawan-Sidharth Malhotra-Alia Bhatt,5.3,109.10
+5,Talaash,Romance Drama Thriller,Hindi,12/12/10,Aamir Khan-Rani Mukherjee-Kareena Kapoor,7.2,174.21
+6,Madagascar,Comedy Adventure Animation,English,4/5/12,Ben Stiller-Chris Rock-David Schwimmer,6.8,53.854
+7,Sparsh,Drama,Marathi,5/6/12,Aishwarya narkar-Girish Oak-Shreyas talpade-Sonalika Joshi,5,8.24
+8,Mi Shivaji,Drama,Marathi,6/6/12,Rustum Mistry-Ashok Sharaf-Vikram Gokhale-Bharti Achrekar,7,12.65
